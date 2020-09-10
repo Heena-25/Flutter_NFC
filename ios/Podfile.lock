@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_nfc_reader (0.0.1):
+    - Flutter
+    - VYNFCKit
+  - VYNFCKit (0.3.2)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_nfc_reader (from `.symlinks/plugins/flutter_nfc_reader/ios`)
+
+SPEC REPOS:
+  trunk:
+    - VYNFCKit
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_nfc_reader:
+    :path: ".symlinks/plugins/flutter_nfc_reader/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_nfc_reader: 67d71071d779d28b827ea50dcbe00d09286f253d
+  VYNFCKit: 86a9b711fd1f34f6f7128a2a883cd58dbd781b9d
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.0.beta.2
